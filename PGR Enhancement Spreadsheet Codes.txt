@@ -4,7 +4,7 @@ General Formulas                                    Line 11
 Substitution of Formulas into Use Cases             Line 28
 Codes of the Calculator                             Line 61
 OC Level Label Codes                                Line 195
-Link to the Project					                Line 319
+Link to the Project                                 Line 319
 
 EXP amount needed = Accum. EXP of Target Level - (Accum. EXP of Current Level + Current EXP at Current Level)
 
